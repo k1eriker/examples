@@ -1,0 +1,7 @@
+dw: delete word
+yw: copy word
+yy: copy line
+I: insert at start
+A: insert at end
+$: jump to end
+0: jump to start
