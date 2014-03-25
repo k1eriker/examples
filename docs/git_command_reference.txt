@@ -3,3 +3,5 @@ git add . | file
 git commit . | file
 git push
 git status
+git pull (like update with merge)
+
